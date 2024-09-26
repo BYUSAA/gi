@@ -3,6 +3,9 @@ package mopay.mopay.customer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import mopay.mopay.customer.CustomerRepository;
+import mopay.mopay.customer.CustomerEntity;
+
 @Service
 public class CustomerService {
 
