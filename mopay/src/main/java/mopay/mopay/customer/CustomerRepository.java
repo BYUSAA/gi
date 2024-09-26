@@ -1,4 +1,5 @@
 package mopay.mopay.customer;
+import mopay.mopay.customer.CustomerEntity;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
