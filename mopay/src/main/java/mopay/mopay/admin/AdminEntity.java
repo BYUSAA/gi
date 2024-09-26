@@ -1,4 +1,4 @@
-package com.byusa.mopay.admin;
+package mopay.mopay.admin;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
