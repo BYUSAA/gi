@@ -1,4 +1,4 @@
-package com.byusa.mopay.admin;
+package mopay.mopay.admin;
 import mopay.mopay.admin.AdminEntity;
 
 import org.springframework.data.jpa.repository.JpaRepository;
