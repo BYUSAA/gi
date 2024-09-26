@@ -6,6 +6,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import mopay.mopay.admin.AdminRepository;
+import mopay.mopay.customer.CustomerRepository;
+
+import mopay.mopay.admin.AdminEntity;
+import mopay.mopay.customer.CustomerEntity;
+
 @Service
 public class AdminService {
     @Autowired
