@@ -1,4 +1,4 @@
-package com.byusa.mopay.customer;
+package mopay.mopay.customer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
