@@ -1,4 +1,4 @@
-package com.byusa.mopay.customer;
+package mopay.mopay.customer;
 
 public class BalanceRequestDto {
     private String phoneNumber;
