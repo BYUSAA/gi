@@ -1,4 +1,4 @@
-package mopay.mopay..admin;
+package mopay.mopay.admin;
 
 public class SendMoneyDto {
     private String phoneNumber;
