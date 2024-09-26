@@ -1,7 +1,7 @@
-package com.byusa.mopay.admin;
+package mopay.mopay.admin;
 
-import com.byusa.mopay.customer.CustomerEntity;
-import com.byusa.mopay.customer.CustomerRepository;
+import mopay.mopay.customer.CustomerEntity;
+import mopay.mopay.customer.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
